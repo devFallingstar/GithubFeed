@@ -1,6 +1,7 @@
 # GithubFeed
 
 Check your Github feed and trending repositories in your hands!
+깃허브 피드 어플리케이션을 사용하도록 도와줍니다.
 
 ## Tech Stack
 
